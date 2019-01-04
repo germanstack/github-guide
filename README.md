@@ -23,6 +23,7 @@ A team is made up by 5 incredible individuals. All team collaboration on *GERMAN
 - It is expected by all team members to fork their team repo and have a clone on their local machine.
 - A team's discussion will be done with the team discussion board created for you. It is also expected all planning of team projects is done via Github. 
 - A team can have other communication channels such as `slack channels` that will also be created for you. And any other channel best suit for all team members
+- A team is free to choosing decent avatars for their Github-team
 - A team (i.e. repo) will be archived at the end of a cohort
 - Forking another team's repo is highly discouraged. We encourage collaboration will also discourage copying someone's effort and taking credits for it. 
 - A team member can request admin privileges where the team lead is no longer available. Privilege can only be granted on consensus with other team members. 
